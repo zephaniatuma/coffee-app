@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mambuzi coffee app</string>
+    <string name="coffee_array">coffee</string>
+    <string name="coffee_prompt">coffee</string>
+</resources>

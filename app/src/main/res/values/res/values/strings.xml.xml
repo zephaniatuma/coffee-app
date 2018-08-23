@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mambuzicoffeeapp</string>
+    <string name="coffee_prompt">Choose coffee type</string>
+
+    <string-array name="coffee_arrays">
+        <item>normal coffee</item>
+        <item>dark coffee</item>
+        <item>sugarless coffee</item>
+        <item>coffee with milk</item>
+        <item>coffee without milk</item>
+        <item>impoted coffee</item>
+    </string-array>
+
+</resources>
